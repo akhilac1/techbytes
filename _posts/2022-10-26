@@ -1,0 +1,8 @@
+---
+title: "Latency"
+date: 2022-10-26
+---
+
+This is a placeholder for a blogpost on how latency is very critical attribute when designing systems, 
+API, response times, SLA and many other attributes. This is different from performance and is not 
+covered by performance goals and SLA. We'll talk more
